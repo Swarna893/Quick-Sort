@@ -1,4 +1,4 @@
-# Quick-Sort
+// Quick-Sort
 
 // #include <stdio.h>
 
